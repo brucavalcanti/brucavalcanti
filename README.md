@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Bruno, Android Developer with a degree in Computer Engineering. I Have experience in Java and Android with Kotlin, Projects.
+I'm Bruno, Android Developer with a bachelor's degree in Computer Engineering. I Have experience in Java and Android with Kotlin, Projects.
 I'm interested in improving myself with **Android**, currently my studies are focused on this area.
 
 - Currently improving myself with Android(Kotlin) and after this, probably Python or FullStack Development(Using React or Angular as framework)
