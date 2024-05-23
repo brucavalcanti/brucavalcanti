@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello 👋
 
+I'm Bruno, Android Developer with a degree in Computer Engineering. I Have experience in Java and Android with Kotlin, Projects.
+I'm interested in improving myself with **Android**, currently my studies are focused on this area.
+
+- Currently improving myself with Android(Kotlin) and after this, probably Python or FullStack Development(Using React or Angular as framework)
+- I work on personal projects, but I'm open to contact.
+- How to reach me: You can contact me via linkedin or email: cavalcantibruno1904@gmail.com
+- Fun fact: I love Cuscuz ( A typical dish from the NE region, made with corn meal)
+
+  
 <!--
 **brucavalcanti/brucavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
